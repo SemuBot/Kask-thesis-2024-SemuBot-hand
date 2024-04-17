@@ -6,8 +6,12 @@ Author: Kristjan Madis Kask
 ## EST
 Tere Tulemast SemuBoti käe disainimaterjalide hoidlasse. Allpool on võimalik lingile klikates näha kahe käe koostu Fusioni veebilehel. Kaustadest saab näha disaini STL ja printimise 3mf faile, pilte ja videoid ning välja on toodud piltidel ka kehvad ja ebaõnnestunud lahendused. 
 
-## Fusion 360 assembly with two hands
+## Assembly with two hands in Fusion 360
 https://a360.co/3OWJDU3
 
-## Mechanical parts that are not 3D-printed
+## 3D model of SemuBot assembly with two hands
 
+
+## Mechanical parts that are not 3D-printed / Mitte 3D-prinditud osad
+| Part / osa | Pictures / Pildid |
+| -------------- | -------------- |
