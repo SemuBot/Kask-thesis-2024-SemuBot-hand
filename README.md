@@ -11,7 +11,3 @@ https://a360.co/3OWJDU3
 
 ## 3D model of SemuBot assembly with two hands
 
-
-## Mechanical parts that are not 3D-printed / Mitte 3D-prinditud osad
-| Part / osa | Pictures / Pildid |
-| -------------- | -------------- |
