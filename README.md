@@ -9,5 +9,6 @@ Tere Tulemast SemuBoti käe disainimaterjalide hoidlasse. Allpool on võimalik l
 ## Assembly with two hands in Fusion 360
 https://a360.co/3OWJDU3
 
-## 3D model of SemuBot assembly with two hands
+## One hand movement gif
+![](https://github.com/SemuBot/Kask-thesis-2024-SemuBot-hand/blob/main/Videos/SB_complete_all_parts_moving.gif)
 
